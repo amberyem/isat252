@@ -66,6 +66,4 @@ white spaces^^
 #else:
 #    print('2>1')
 
-dlkafjd
-kalsdfj
-aklskdf
+
