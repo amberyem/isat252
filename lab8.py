@@ -2,10 +2,6 @@
 lab 8
 """
 #3.1
-#demo = 'hello world!'
-
-#'''print(len(demo.split()))'''
-
 #def calcwords(input_str):
 #    return len(input_str.split())
     
